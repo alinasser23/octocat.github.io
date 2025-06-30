@@ -1,4 +1,3 @@
-# octocat.github.io
 
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
@@ -963,7 +962,18 @@
         </div>
     </section>
 
-    <!-- Footer -->
+    
+<!-- About Section -->
+<section id="about" style="padding: 80px 0; background: #f0f0f0;">
+    <div class="container">
+        <h2 class="section-title">من نحن</h2>
+        <p style="text-align: center; max-width: 800px; margin: auto; font-size: 1.2rem; color: #555;">
+            نحن أكاديمية البرمجة، نقدم دروساً تفاعلية ومجانية لتعليم لغات البرمجة بأسلوب مبسط وعملي. انضم إلينا وابدأ رحلتك البرمجية الآن.
+        </p>
+    </div>
+</section>
+
+<!-- Footer -->
     <footer>
         <div class="container">
             <div class="footer-content">
